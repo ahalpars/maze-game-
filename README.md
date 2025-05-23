@@ -53,10 +53,10 @@ python maze_game.py
 
 ## Credits
 
-- **Mert Kaymak** – Game Logic & Pathfinding
-- **Ahmet Alperen Arslan** – GUI & Visual Design
-- **Yalçın Kağan Çakır** – Data Structures & Level Design
-- **Utkan Onur Özbedel** – Testing & Documentation
+- *Mert Kaymak** – Game Logic & Pathfinding
+- *Ahmet Alperen Arslan** – GUI & Visual Design
+- *Yalçın Kağan Çakır** – Data Structures & Level Design 
+- *Utkan Onur Özbedel** – Testing & Documentation
 
 ---
 
